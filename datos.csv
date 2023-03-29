@@ -1,4 +1,4 @@
 :key,resum:nom,resum:tipus,propietari:nif,propietari:nom,propietari:mail,propietari:telefon,localitzacio:longitud,localitzacio:latitud,localitzacio:adreca,localitzacio:zona,localitzacio:pais,caracteristiques:maxocupants,caracteristiques:nhabitacions,caracteristiques:nbanys,caracteristiques:superficie
-3,"Pis de 2 habitacions al centre de Maó",Apartament,,"Luis García",lgg@hotmail.com,,,,"Sant Roc","23. Máo",Menorca,Espanya,6,2,2,70
-4,"Apartament luminós a Santa Eulària",Apartament,44444444D,"Aina Moll",amoll@gmail.com,971444444,,,"Passeig Alamera","5. Santa Eulària des Riu",Eivissa,Espanya,4,,1,
+3,"Pis de 2 habitacions al centre de Maó",Apartament,,"Luis García",lgg@hotmail.com,,,,"Sant Roc, 23. Máo",Menorca,Espanya,6,2,2,70
+4,"Apartament luminós a Santa Eulària",Apartament,44444444D,"Aina Moll",amoll@gmail.com,971444444,,,"Passeig Alamera, 5. Santa Eulària des Riu",Eivissa,Espanya,4,,1,
 5,"Casa de camp a interior de Menorca",Casa,55555555E,"Xavier Mas",,655555555,4.029293,40.002541,,Menorca,Espanya,8,4,2,120
